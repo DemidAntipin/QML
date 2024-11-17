@@ -1,0 +1,16 @@
+{
+    "files": [
+        "Body_obj.qml",
+        "Ear.qml",
+        "Eye.qml",
+        "Footer_obj.qml",
+        "Head.qml",
+        "Head_obj.qml",
+        "Moustache.qml",
+        "Mouth.qml",
+        "Nose.qml",
+        "main.py",
+        "task1.qml",
+        "task2.qml"
+    ]
+}
