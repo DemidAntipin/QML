@@ -26,12 +26,12 @@ Window {
         }
         XmlListModel {
             id: my_model
-            source: "https://feeds.npr.org/510289/rss.xml"
-            query: "/rss/channel/item"
+            source: "https://stackoverflow.com/feeds"
+            query: "/feed/entry"
 
-            XmlListModelRole { name: "title"; elementName: "title" }
-            XmlListModelRole { name: "description"; elementName: "description" }
-            XmlListModelRole { name: "time"; elementName: "pubDate" }
+            XmlListModelRole { name: "title"; elementName: "author/name" }
+            XmlListModelRole { name: "description"; elementName: "summary" }
+            XmlListModelRole { name: "time"; elementName: "published" }
         }
 
         Component{
