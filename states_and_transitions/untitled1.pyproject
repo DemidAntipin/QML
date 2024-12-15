@@ -1,0 +1,10 @@
+{
+    "files": [
+        "Comp.qml",
+        "MyDeligate.qml",
+        "PageFooter.qml",
+        "main.py",
+        "main.qml",
+        "main2.qml"
+    ]
+}
