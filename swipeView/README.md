@@ -6,5 +6,7 @@
 ## Результат
 
 ![red](red.png)
+
 ![yellow](yellow.png)
+
 ![green](green.png)
